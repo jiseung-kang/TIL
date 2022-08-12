@@ -9,3 +9,4 @@
 - 2022.08.09 : [웹 프론트엔드 개발자되기](https://github.com/jiseung-kang/TIL/blob/main/Career/How_to_Study.md)
 - 2022.08.10 : [원시 값과 객체의 비교](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Type.md)
 - 2022.08.11 : [함수](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Function.md)
+- 2022.08.12 : [전역 변수의 문제점](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Global_Variable.md)
