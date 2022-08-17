@@ -10,4 +10,5 @@
 - 2022.08.10 : [원시 값과 객체의 비교](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Type.md)
 - 2022.08.11 : [함수](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Function.md)
 - 2022.08.12 : [전역 변수의 문제점](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Global_Variable.md)
-- 2022.08.16 : [프로퍼티 어트리뷰트](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Property_Attribute)
+- 2022.08.16 : [프로퍼티 어트리뷰트](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Property_Attribute.md)
+- 2022.08.17 : [Git Command](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Git_Command.md)
