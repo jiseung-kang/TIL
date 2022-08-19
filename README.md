@@ -13,3 +13,4 @@
 - 2022.08.16 : [프로퍼티 어트리뷰트](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Property_Attribute.md)
 - 2022.08.17 : [Git Command](https://github.com/jiseung-kang/TIL/blob/main/Git/Git_Command.md)
 - 2022.08.18 : [프로토타입](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Prototype.md)
+- 2022.08.19 : [this](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/this.md)
