@@ -15,3 +15,4 @@
 - 2022.08.18 : [프로토타입](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Prototype.md)
 - 2022.08.19 : [this](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/this.md)
 - 2022.08.22 : [실행 컨텍스트](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Execution_Context.md)
+- 2022.08.23 : [얕은 복사와 깊은 복사](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Copy.md)
