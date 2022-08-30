@@ -20,3 +20,4 @@
 - 2022.08.25 : [심볼](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Symbol.md)
 - 2022.08.26 : [이터러블](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Iterable.md)
 - 2022.08.29 : [브라우저의 렌더링 과정](https://github.com/jiseung-kang/TIL/blob/main/Web/Rendering.md)
+- 2022.08.30 : [이벤트](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Event.md)
