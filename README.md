@@ -22,3 +22,4 @@
 - 2022.08.29 : [브라우저의 렌더링 과정](https://github.com/jiseung-kang/TIL/blob/main/Web/Rendering.md)
 - 2022.08.30 : [이벤트](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Event.md)
 - 2022.08.31 : [엄격 모드](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Strict_mode.md)
+- 2022.09.01 : [에러 처리](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Error.md)
