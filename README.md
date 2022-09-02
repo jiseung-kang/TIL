@@ -23,3 +23,4 @@
 - 2022.08.30 : [이벤트](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Event.md)
 - 2022.08.31 : [엄격 모드](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Strict_mode.md)
 - 2022.09.01 : [에러 처리](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Error.md)
+- 2022.09.02 : [모듈](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Module.md)
