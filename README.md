@@ -28,3 +28,4 @@
 - 2022.09.06 : [함수와 일급 객체](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/FirstClass_Object.md)
 - 2022.09.07 : [CSS 최적화](https://github.com/jiseung-kang/TIL/blob/main/Web/CSS_Optimization.md)
 - 2022.09.08 : [프론트엔드 개발](https://github.com/jiseung-kang/TIL/blob/main/Web/Frontend.md)
+- 2022.09.13 : [프론트엔드 개발](https://github.com/jiseung-kang/TIL/blob/main/Web/SEO.md)
