@@ -30,3 +30,4 @@
 - 2022.09.08 : [프론트엔드 개발](https://github.com/jiseung-kang/TIL/blob/main/Web/Frontend.md)
 - 2022.09.13 : [SEO](https://github.com/jiseung-kang/TIL/blob/main/Web/SEO.md)
 - 2022.09.14 : [메모리와 데이터](https://github.com/jiseung-kang/TIL/blob/main/Web/Memory_Data.md)
+- 2022.09.15 : [DNS](https://github.com/jiseung-kang/TIL/blob/main/Web/DNS.md)
