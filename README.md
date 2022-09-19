@@ -32,3 +32,4 @@
 - 2022.09.14 : [메모리와 데이터](https://github.com/jiseung-kang/TIL/blob/main/Web/Memory_Data.md)
 - 2022.09.15 : [DNS](https://github.com/jiseung-kang/TIL/blob/main/Web/DNS.md)
 - 2022.09.16 : [FOUT과 FIOT](https://github.com/jiseung-kang/TIL/blob/main/Web/FOUT_FIOT.md)
+- 2022.09.19 : [설계와 아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture.md)
