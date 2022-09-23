@@ -36,3 +36,4 @@
 - 2022.09.20 : [프로그래밍 패러다임](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Programming_Paradigm.md)
 - 2022.09.21 : [패키지 매니저](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Package_Manager.md)
 - 2022.09.22 : [HTTP](https://github.com/jiseung-kang/TIL/blob/main/Web/HTTP.md)
+- 2022.09.23 : [Semantic HTML](https://github.com/jiseung-kang/TIL/blob/main/Web/Semantic_HTML.md)
