@@ -39,5 +39,6 @@
 - 2022.09.23 : [Semantic HTML](https://github.com/jiseung-kang/TIL/blob/main/Web/Semantic_HTML.md)
 - 2022.09.26 : [SOLID 설계원칙 : SRP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/SRP.md)
 - 2022.09.27 : [SOLID 설계원칙 : OCP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/OCP.md)
-- 2022.09.27 : [SOLID 설계원칙 : LSP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/LSP.md)
-- 2022.09.27 : [SOLID 설계원칙 : ISP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/ISP.md)
+- 2022.09.28 : [SOLID 설계원칙 : LSP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/LSP.md)
+- 2022.09.29 : [SOLID 설계원칙 : ISP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/ISP.md)
+- 2022.09.30 : [SOLID 설계원칙 : DIP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/DIP.md)
