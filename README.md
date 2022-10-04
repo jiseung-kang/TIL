@@ -42,3 +42,4 @@
 - 2022.09.28 : [SOLID 설계원칙 : LSP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/LSP.md)
 - 2022.09.29 : [SOLID 설계원칙 : ISP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/ISP.md)
 - 2022.09.30 : [SOLID 설계원칙 : DIP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/DIP.md)
+- 2022.10.04 : [컴포넌트](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Component/index.md)
