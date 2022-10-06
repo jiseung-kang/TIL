@@ -54,8 +54,6 @@ REP와 CCP는 포함 원칙. 컴포넌트를 더 크게 만든다.
 
 CRP는 배제 원칙. 컴포넌트를 더 작게 만든다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81bf443f-211e-45ed-ba1a-a17aab44a438/Untitled.png)
-
 REP, CRP에 중점 ⇒ 사소한 변경이 너무 많은 컴포넌트에 영향
 
 CCP, REP ⇒ 불필요한 릴리스가 빈번

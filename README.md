@@ -44,3 +44,4 @@
 - 2022.09.30 : [SOLID 설계원칙 : DIP](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/SOLID/DIP.md)
 - 2022.10.04 : [컴포넌트](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Component/index.md)
 - 2022.10.05 : [컴포넌트의 응집도](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Component/Cohesion.md)
+- 2022.10.06 : [컴포넌트의 결합](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Component/Coupling.md)
