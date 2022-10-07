@@ -45,3 +45,4 @@
 - 2022.10.04 : [컴포넌트](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Component/index.md)
 - 2022.10.05 : [컴포넌트의 응집도](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Component/Cohesion.md)
 - 2022.10.06 : [컴포넌트의 결합](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Component/Coupling.md)
+- 2022.10.07 : [아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/index.md)
