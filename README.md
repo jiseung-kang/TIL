@@ -48,3 +48,4 @@
 - 2022.10.07 : [아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/index.md)
 - 2022.10.11 : [아키텍처 : 독립성](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/independence.md)
 - 2022.10.12 : [아키텍처 : 경계선 긋기](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Boundary_line.md)
+- 2022.10.13 : [아키텍처 : 경계](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Boundary.md)
