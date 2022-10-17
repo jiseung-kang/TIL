@@ -50,3 +50,4 @@
 - 2022.10.12 : [아키텍처 : 경계선 긋기](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Boundary_line.md)
 - 2022.10.13 : [아키텍처 : 경계](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Boundary.md)
 - 2022.10.14 : [아키텍처 : 규칙](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Rules.md)
+- 2022.10.17 : [아키텍처 : 소리치는 아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Shouting_Architecture.md)
