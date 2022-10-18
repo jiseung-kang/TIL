@@ -51,3 +51,4 @@
 - 2022.10.13 : [아키텍처 : 경계](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Boundary.md)
 - 2022.10.14 : [아키텍처 : 규칙](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Rules.md)
 - 2022.10.17 : [아키텍처 : 소리치는 아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Shouting_Architecture.md)
+- 2022.10.18 : [소프트웨어 생명주기](https://github.com/jiseung-kang/TIL/blob/main/Software/SDLC.md)
