@@ -52,3 +52,4 @@
 - 2022.10.14 : [아키텍처 : 규칙](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Rules.md)
 - 2022.10.17 : [아키텍처 : 소리치는 아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Shouting_Architecture.md)
 - 2022.10.18 : [소프트웨어 생명주기](https://github.com/jiseung-kang/TIL/blob/main/Software/SDLC.md)
+- 2022.10.19 : [아키텍처 : 클린 아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Clean_Architecture.md)
