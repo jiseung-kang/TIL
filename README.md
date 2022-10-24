@@ -55,3 +55,4 @@
 - 2022.10.19 : [아키텍처 : 클린 아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Clean_Architecture.md)
 - 2022.10.20 : [아키텍처 : 험블 객체](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Humble_Object.md)
 - 2022.10.21 : [아키텍처 : 부분적 경계](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Partial_Boundary.md)
+- 2022.10.24 : [아키텍처 : 메인 컴포넌트](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Main_Component.md)
