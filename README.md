@@ -58,3 +58,4 @@
 - 2022.10.24 : [아키텍처 : 메인 컴포넌트](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Main_Component.md)
 - 2022.10.25 : [브라우저 웹 접근성 지원하기](https://github.com/jiseung-kang/TIL/blob/main/Web/Browser_a11y.md)
 - 2022.10.26 : [커링](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Currying.md)
+- 2022.10.27 : [태그드 템플릿](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Tagged_Template.md)
