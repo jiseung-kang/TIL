@@ -59,3 +59,4 @@
 - 2022.10.25 : [브라우저 웹 접근성 지원하기](https://github.com/jiseung-kang/TIL/blob/main/Web/Browser_a11y.md)
 - 2022.10.26 : [커링](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Currying.md)
 - 2022.10.27 : [태그드 템플릿](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Tagged_Template.md)
+- 2022.10.28 : [VS Code : Setting.json](https://github.com/jiseung-kang/TIL/blob/main/Development/Configuration/VSCode_Setting.md)
