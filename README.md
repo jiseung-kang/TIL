@@ -60,3 +60,4 @@
 - 2022.10.26 : [커링](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Currying.md)
 - 2022.10.27 : [태그드 템플릿](https://github.com/jiseung-kang/TIL/blob/main/JavaScript/Tagged_Template.md)
 - 2022.10.28 : [VS Code : Setting.json](https://github.com/jiseung-kang/TIL/blob/main/Development/Configuration/VSCode_Setting.md)
+- 2022.10.31 : [웹 컴포넌트](https://github.com/jiseung-kang/TIL/blob/main/Web/Web_Component.md)
