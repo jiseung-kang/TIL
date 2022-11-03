@@ -8,13 +8,13 @@ name of repo : `username`.github.io
 
 ---
 
-### 시작하기
+## 시작하기
 
 `$ git clone <https://github.com/username/username.github.io.git`>
 
 `$ git add .$ git commit -m "first page"$ git push origin master`
 
-### sample index page
+## sample index page
 
 ```html
 <!DOCTYPE html>
@@ -32,7 +32,7 @@ name of repo : `username`.github.io
 
 ---
 
-### Static Site Generator
+## Static Site Generator
 
 - [Jekyll](https://jekyllrb.com/): Ruby 기반 정적인 블로그 생성기
   - 설치와 사용이 쉽다.
@@ -48,9 +48,9 @@ name of repo : `username`.github.io
 
 ---
 
-## Hexo 시작하기
+# Hexo 시작하기
 
-### Requirements
+## Requirements
 
 1. git
 2. node.js([https://nodejs.org/en/](https://nodejs.org/en/))
@@ -94,14 +94,14 @@ deploy:
 
 ## .gitignore and .gitattributes
 
-### .gitignore: 특정파일 추적을 하고 싶지 않을 경우
+## .gitignore: 특정파일 추적을 하고 싶지 않을 경우
 
 ```
 *.java
 *.py[cod]
 ```
 
-### .gitattributes: 파일단위, 디렉토리 별 다른 설정을 부여하고 싶을 경우
+## .gitattributes: 파일단위, 디렉토리 별 다른 설정을 부여하고 싶을 경우
 
 ```
 # Avoid conflicts in pbxproj files
