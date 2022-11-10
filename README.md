@@ -68,3 +68,4 @@
 - 2022.11.07 : [아키텍처 : 클린 임베디스 아키텍처](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Architecture/Clean_Embedded_Architecture.md)
 - 2022.11.08 : [세부사항 : 데이터베이스](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Database.md)
 - 2022.11.09 : [세부사항 : 웹](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Web.md)
+- 2022.11.10 : [세부사항 : 프레임워크](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Framework.md)
