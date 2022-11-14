@@ -70,3 +70,4 @@
 - 2022.11.09 : [세부사항 : 웹](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Web.md)
 - 2022.11.10 : [세부사항 : 프레임워크](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Framework.md)
 - 2022.11.11 : [세부사항 : 사례 연구](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Case_Study.md)
+- 2022.11.14 : [세부사항 : 빠져있는 장](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Appendix.md)
