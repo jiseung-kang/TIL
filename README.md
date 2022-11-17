@@ -72,3 +72,4 @@
 - 2022.11.11 : [세부사항 : 사례 연구](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Case_Study.md)
 - 2022.11.14 : [세부사항 : 빠져있는 장](https://github.com/jiseung-kang/TIL/blob/main/Book/CleanArchitecture/Details/Appendix.md)
 - 2022.11.15 : [디렉터리 구조](https://github.com/jiseung-kang/TIL/blob/main/Development/Frontend/Directory_Structure.md)
+- 2022.11.16 : [JSONP란](https://github.com/jiseung-kang/TIL/blob/main/Web/JSONP.md)
